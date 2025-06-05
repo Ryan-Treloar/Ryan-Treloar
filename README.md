@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">I'm currently a networking and cybersecurity student.</h3>
 
-- 🌱 I’m currently learning **Python and networking**
+- 🌱 I’m currently learning **Python and networking basics**
 
 - ⚡ Fun fact **I really like the Seattle Seahawks**
 
